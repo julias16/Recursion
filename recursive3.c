@@ -1,3 +1,5 @@
+// Write a recursive function to print the factorial
+
 #include<stdio.h>
 unsigned long long factorial(int n)
 {
