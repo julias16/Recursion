@@ -1,4 +1,4 @@
-// Find GCD using recursion function
+// Find GCD using recursive function
 
 #include<stdio.h>
 int gcd(int a, int b)
